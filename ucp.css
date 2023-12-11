@@ -1,0 +1,73 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    overflow-x: hidden;
+}
+.bac{
+    background-color: #142e51;
+}
+.inp{
+    background-color: #EAEAEA;
+}
+.fac{
+    color: #132D50;
+}
+.fia{
+    font-size: 20px;
+}
+@media screen and (max-width: 480px) {
+    .fia {
+      font-size: 15px;
+    }
+  }
+  .chair{
+    font-size: 45px;
+  }
+  .we{
+    font-size: 19px;
+  }
+  .bor{
+    border-right: 2px solid black;
+  }
+  .siz{
+    border:6px solid  #132D50;
+  }
+  .footer{
+    background-image: url(/img/ucp_footer_bg.webp);
+    background-color:  #132D50;
+  }
+  
+.bac-1{
+  background-color: #142e51;
+  color: white;
+}
+.bac-1:hover{
+  background-color: white;
+  color:#132D50;
+}
+.pos{
+  border:1px solid white;
+  position: relative;
+  top: 15px;
+}
+.apply{
+   rotate: -90deg;
+  position: fixed;
+  bottom: 270px;
+  right: -195px;
+}
+.apply-1{
+  color: white;
+  background-color: brown;
+}
+.apply-1:hover{
+  background-color:#132D50 ;
+}
+.apply-2{
+  color: white;
+  background-color:#132D50;
+}
+.apply-2:hover{
+  background-color: brown;
+}
